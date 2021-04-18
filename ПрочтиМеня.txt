@@ -1,0 +1,6 @@
+Для работы программы вам понадобиться установить две библиотеки и желательно Anaconda Jupiter
+Так как в Colab отсутствуют необходимые библиотеки
+Перед началом установите pip и vk_api
+pip install vk_api
+Установите пожалуйста библиотеку SpeechRecognition
+pip install SpeechRecognition
